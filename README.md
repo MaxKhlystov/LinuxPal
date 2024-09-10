@@ -6,8 +6,7 @@
 
 (https://avatars.mds.yandex.net/i?id=be2e522a325251cd2ba17e837b937f06c8b6605c-10331033-images-thumbs&n=13)
 
-```
-python
+```python
 
 print("Привет, папа!")
 
